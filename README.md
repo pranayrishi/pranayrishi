@@ -12,10 +12,7 @@ My name is Rishi Nalem. I am an upcoming Freshman at Irvington High School. I ha
 * 🤖 C
 * 📱 SWIFT
 
-<a href="[http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=Iv77kudUNVs)
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-<a href="[[http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=Iv77kudUNVs)](https://www.youtube.com/watch?v=c1_lSH1a2v4)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
