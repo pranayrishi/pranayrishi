@@ -2,10 +2,22 @@
 #### A Student Turning Concepts to a Reality with Programming and Robotics
 My name is Rishi Nalem. I am an upcoming Freshman at Irvington High School. I have a deep passion for robotics and programming and I am preparing to pursue my dreams in the future. You can check out my youtube at youtube.com/@programmingwithpranay.
 
-Skills: PYTHON / C++ / JS / HTML / CSS / FLUTTER / C / SWIFT
+## Skills and Experience
+* 🐍 PYTHON
+* 🤖 C++
+* 🧑‍💻 JS
+* 🌐 HTML
+* 🌐 CSS
+* 📱 FLUTTER
+* 🤖 C
+* 📱 SWIFT
 
-- 🔭 I’m currently working on this page. 
-
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=Iv77kudUNVs)
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="[[http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=Iv77kudUNVs)](https://www.youtube.com/watch?v=c1_lSH1a2v4)
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pranayrishi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rishi-nalem-8161b7244//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rishinalem/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@programmingwithpranay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](rishinalem.com)  
 
