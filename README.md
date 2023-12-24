@@ -1,6 +1,6 @@
 ### Hi there 👋, Rishi Nalem
 #### A Student Turning Concepts to a Reality with Programming and Robotics
-My name is Rishi Nalem. I am an upcoming Freshman at Irvington High School. I have a deep passion for robotics and programming and I am preparing to pursue my dreams in the future. You can check out my youtube at youtube.com/@programmingwithpranay.
+My name is Rishi Nalem. I am an upcoming Freshman at Irvington High School. I have a deep passion for robotics and programming and I am preparing to pursue my dreams in the future. You can check out my Youtube at youtube.com/@programmingwithpranay.
 
 ## Skills and Experience
 * 🐍 PYTHON
