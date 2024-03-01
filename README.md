@@ -12,6 +12,14 @@ My name is Rishi Nalem. I am an upcoming Freshman at Irvington High School. I ha
 * 🤖 C
 * 📱 SWIFT
 
+## Check Out my Projects!
+* Chatbot Program: Create three different Chatbot programs nearing to 33 lines of code
+* Create a language translation program that can translate between 5 different languages.
+* Used Natural Language Processing in Alan AI Projects to create voice-controlled Pong game and a FAQ page
+* Created radio encryption and decryption system
+* Contributed to the development of Dillmans Emporium of Antiquities App during an internship
+* Created a robot arm using Raspberry Pi and Arduino
+
 <a href="https://youtu.be/Iv77kudUNVs" target="_blank"><img src="Chatbot.jpg" 
 alt="Chatbot.jpg" width="240" height="180" border="10" /></a>
 
