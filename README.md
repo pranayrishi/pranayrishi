@@ -11,6 +11,9 @@ My name is Rishi Nalem. I am an upcoming Freshman at Irvington High School. I ha
 * 📱 FLUTTER
 * 🤖 C
 * 📱 SWIFT
+* 📱 Kotlin
+* Typescript
+* Node.js
 
 ## Check Out my Projects!
 * Chatbot Program: Create three different Chatbot programs nearing to 33 lines of code
