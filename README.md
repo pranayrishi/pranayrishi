@@ -12,7 +12,7 @@ I'm a passionate high school student with a deep fascination for **robotics** an
 - 🌱 I'm learning advanced algorithms, machine learning, and embedded systems
 - 👯 I'm looking to collaborate on open-source projects and robotics initiatives
 - 💬 Ask me about Python, C++, mobile development, or robotics
-- 📺 Check out my YouTube channel: [@programmingwithpranay](https://youtube.com/@programmingwithpranay)
+- 📺 Check out my YouTube channel: [@programmingwithrishinalem](https://youtube.com/@programmingwithrishinalem)
 - ⚡ Fun fact: I've built a robot arm using Raspberry Pi and Arduino!
 
 ## 🛠️ Technical Skills
@@ -114,7 +114,7 @@ I'm a passionate high school student with a deep fascination for **robotics** an
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranayrishi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-nalem-8161b7244/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@programmingwithpranay)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@programmingwithrishinalem)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rishinalem/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rishinalem.com)
 
