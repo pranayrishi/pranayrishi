@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate high school student with a deep fascination for **robotics** and **programming**. I believe in the power of technology to transform ideas into reality, and I'm constantly exploring new ways to innovate and create. Currently preparing to pursue my dreams in computer science and engineering.
+I'm a passionate student with a deep fascination for **robotics** and **programming**. I believe in the power of technology to transform ideas into reality, and I'm constantly exploring new ways to innovate and create. Currently preparing to pursue my dreams in computer science and engineering.
 
 - 🔭 I'm currently working on robotics projects and mobile app development
 - 🌱 I'm learning advanced algorithms, machine learning, and embedded systems
