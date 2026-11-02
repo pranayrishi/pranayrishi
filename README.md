@@ -64,6 +64,10 @@ For fun: [*On the Active Rheology of Cats*](assets/active-rheology-of-cats.pdf),
 **Latest videos**
 
 <!-- youtube starts -->
+- [Dragon Coders - VEX Over Under Post Season Video](https://www.youtube.com/shorts/W_m-Kl7fa9I)
+- [VEX Robotics Competition Practice at Dublin High School | Dragon Coders](https://www.youtube.com/shorts/7HZqbnvJ_rk)
+- [VEX Robotics Competition | Battle of the Bay | Dragon Coders](https://www.youtube.com/watch?v=Dt6bTZ_OhSE)
+- [VEX Robotics Quarterfinals at Dublin High School](https://www.youtube.com/watch?v=DOJ1vfVd2QE)
 - [All videos on YouTube](https://www.youtube.com/@programmingwithrishinalem)
 <!-- youtube ends -->
 
