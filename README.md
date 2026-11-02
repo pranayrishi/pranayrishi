@@ -50,6 +50,11 @@ For fun: [*On the Active Rheology of Cats*](assets/active-rheology-of-cats.pdf),
 **Latest writing**
 
 <!-- medium starts -->
+- [Democratizing Education Through AI: How Nalem Study Circle is Transforming Learning for Students…](https://medium.com/@pranayrishi.nalem/democratizing-education-through-ai-how-nalem-study-circle-is-transforming-learning-for-students-a2f626e3212e)
+- [EcoVision](https://medium.com/@pranayrishi.nalem/ecovision-decbfb4ead42)
+- [MathQuest Animations](https://medium.com/@pranayrishi.nalem/mathquest-animations-6d1c1f5e16c5)
+- [Overcoming Plateaus in VEX Robotics Competitions](https://medium.com/@pranayrishi.nalem/overcoming-plateaus-in-vex-robotics-competitions-d2b540a6f973)
+- [Crafting Control: Building Precision Movements in VEX Robotics Driver Control](https://medium.com/@pranayrishi.nalem/mastering-the-joystick-creation-precision-in-vex-robotics-driver-control-code-ba12f5f669cf)
 - [All posts on Medium](https://medium.com/@pranayrishi.nalem)
 <!-- medium ends -->
 
